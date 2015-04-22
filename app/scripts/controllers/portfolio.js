@@ -256,7 +256,6 @@ angular.module('publicApp')
         avocational: false,
         name:        'elpishost.com',
         language:    'CSS',
-        concept:     'https://raw.githubusercontent.com/andrewmcwatters/portfolio/master/northsidechurchofchrist.org.r35.portfolio.png',
         type:        'Website',
         for:         'Elpis Host',
         description: 'Game server provider website',
